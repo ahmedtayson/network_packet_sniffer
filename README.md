@@ -15,6 +15,13 @@ Either to the sender or to the recipient
 You will also be able to print the data passed, the size of the packet, and locate the device to which the packet was sent or from which the packet was received
 
 
+#The following libraries must be installed
+pip install 
+#geoip
+#scapy
+#socket
+
+
 #facebook : https://www.facebook.com/A7meD.TaYSoN
 
 #twitter : https://twitter.com/ahmedtayson112
